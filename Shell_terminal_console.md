@@ -12,7 +12,7 @@
     <tr>
         <th>Definition</th>
         <th>A software that process inputs (commands from users) and return output</th>
-        <th colspan = "3"> The graphical interface for users to work with a Shell. In other words, it is an environment for users to type in commands (in a specialized language) to work with the Shell.</th>
+        <th colspan = "3"> The interface for users to work with a Shell. In other words, it is an environment for users to type in commands (in a specialized language) to work with the Shell.</th>
     </tr>
 <tr>
         <th>Variants</th>
@@ -23,6 +23,7 @@
     </tr>    
 </table>
 
+- A terminal is so-called  `an interpreter`.
 
 ## II, Console:
 - a physical terminal connected to a machine. Nowadays, it is rare for us to see such a thing. So we have another version of it: the console in R studio.
@@ -59,6 +60,7 @@
 
 _This file answers the following questions:_
 - What is a terminal?
+- What is an interpreter?
 - What is a shell?
 - What is a console?
 - What is the difference between a shell and a terminal?
