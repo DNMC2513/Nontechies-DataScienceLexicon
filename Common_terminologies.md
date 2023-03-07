@@ -20,5 +20,5 @@ Click [here](https://www.youtube.com/watch?v=1GSjbWt0c9M) for more information.
 
 7. `an app`: or so-called an application software.
 
-
+8. `file extensions`:
 
