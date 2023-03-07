@@ -64,4 +64,4 @@ _This file answers the following questions:_
 - What is the difference between a shell and a terminal?
 - What is the difference between a console and a shell?
 - What is the difference between a bash and a terminal?
-- What is the differnce between PowerShell and Command Prompt?ss
+- What is the differnce between PowerShell and Command Prompt?
