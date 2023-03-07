@@ -1,4 +1,4 @@
-# Common terminologies
+# Common terminologies in programming
 
 1.	`Source code`: a source code is the file that contains your code.
 
