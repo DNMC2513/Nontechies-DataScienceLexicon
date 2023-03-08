@@ -22,3 +22,5 @@ Click [here](https://www.youtube.com/watch?v=1GSjbWt0c9M) for more information.
 
 8. `file extensions:
 
+9. `an operating system`: a software that coordinates all parts within the computer, both hardware and software, to work properly
+
