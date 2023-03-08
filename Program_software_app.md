@@ -1,33 +1,33 @@
 # Program vs Software vs App
 
 ## I, What is a program?
-- A program is a file of code that instruct the computer to do a simple task.
+- A program is a file of code that instructs the computer to do a simple task.
 - A set of programs together comprises a software.
 
 ## II, What is a software?
 - A software is a combination of programs to enable the hardware of the computer to perform a specific task.
-- The most obvious difference between a program and a software is that: a software comes with an built-in interactive interface (either Graphical-User-Interface or Command-Line-Interpreter), whilst a program does not.
-- Softwares are of two types:
+- The most apparent difference between a program and a software is that: a software comes with a built-in interactive interface (either Graphical-User-Interface or Command-Line-Interpreter), whilst a program does not.
+- Software are of two types:
   + System software:
   + Application software:
 
 ### a, What is a system software?
-- A system software is the type of sofware that permit users access to the hardware of the computer. Hence, the target user of a system software are computing developers.
+- A system software is the type of sofware that permits users access to the computer's hardware. Hence, the target user of system software are computing developers.
 - Instances:
-  + Operating system: Android, MacOS, Microsoft,...
+  + Operating systems: Android, MacOS, Microsoft,...
   + Utility: WinRAR,...
   + Programming language interpreter, compiler,...
  
  ### b, What is an application software?
- - An application software is well-known as `app`. It is developed to serve end users to perform specific tasks.
+ - An application software is well-known as an `app`. It is developed to serve end users to perform specific tasks.
  - Instances:
   + Web browser,...
   + Timer,...
   + Viber, Whatsapp,...
 
 ## III, What is an app?
-- An app is in-deed an application software, a type of a software.
-- All apps are sofware, however not all softwares are apps.
+- An app is, in-deed, an application software, a type of a software.
+- All apps are sofware, however, not all software are apps.
 
 ## IV, References:
 - (1): https://www.javatpoint.com/program-vs-software
