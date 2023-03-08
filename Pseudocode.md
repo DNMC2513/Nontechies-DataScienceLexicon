@@ -1,7 +1,7 @@
 # Pseudocode
 
 ## I, What is Pseudocode?
-Pseudocode is not an actual programming language. Instead, it is a brief and intelligible blueprint to write your code in a human natural language, such as English.
+Pseudocode is not an actual programming language. Instead, pseudocode is a brief and intelligible blueprint to write your code in a natural human language, such as English.
 
 ## II, More information
 -	Instance: 
