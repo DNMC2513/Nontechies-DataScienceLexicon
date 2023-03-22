@@ -23,7 +23,7 @@ There are two types of programming languages:
 
 
 ## II, Interpreted languages:
--	With an interpreted language, the source code will be appraised by lexical analysis by the interpreter. If everything is alright, the code will be interpreted line-by-line into bytecode, then binary code by a remote virtual machine, and then sent to your device to be executed.
+-	With an interpreted language, the source code will be appraised by lexical analysis by the interpreter. If everything is alright, the code will be interpreted  into bytecode, then binary code line-by-line by a remote virtual machine, and then sent to your device to be executed.
 -	Pros:
     + System-independent
     + Easier to write a program and run it compared to compiled languages.
